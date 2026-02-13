@@ -3,10 +3,6 @@
 <!-- Dynamic typing effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Yunkai;Backend+Infrastructure+Engineer;Open+Source+Contributor;Google+Summer+of+Code+2025" alt="Typing SVG" />
 
----
-
-### Open Source Enthusiast | Problem Solver | Lifelong Learner
-
 </div>
 
 ## About Me
@@ -16,8 +12,6 @@
 - 🎯 Google Summer of Code 2025 Contributor (<8% acceptance rate)
 - 💡 Specializing in multi-DB backend systems, PostgreSQL/MySQL optimization, and CI/CD pipelines
 - 📫 How to reach me: **yunkai_li@berkeley.edu** | [LinkedIn](https://linkedin.com/in/liyunkai)
-
----
 
 ## Tech Stack
 
