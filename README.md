@@ -8,7 +8,6 @@
 ## About Me
 
 - 🔭 I'm actively contributing to **Kubeflow Pipelines** (4k+ stars)
-- 🌱 Currently exploring **etcd-based distributed caching systems and Kubernetes internals**
 - 🎯 Google Summer of Code 2025 Contributor (<8% acceptance rate)
 - 💡 Specializing in multi-DB backend systems, PostgreSQL/MySQL optimization, and CI/CD pipelines
 - 📫 How to reach me: **yunkai_li@berkeley.edu** | [LinkedIn](https://linkedin.com/in/liyunkai)
@@ -23,7 +22,6 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -34,12 +32,9 @@
 <summary><b>Frameworks & Libraries</b></summary>
 <br>
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
-![GORM](https://img.shields.io/badge/-GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </details>
 
@@ -52,14 +47,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![etcd](https://img.shields.io/badge/-etcd-419EDA?style=for-the-badge&logo=etcd&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
 ## </details>
 
