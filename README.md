@@ -1,10 +1,3 @@
-<div align="center">
-  
-<!-- Dynamic typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Yunkai;Backend+Infrastructure+Engineer;Open+Source+Contributor;Google+Summer+of+Code+2025" alt="Typing SVG" />
-
-</div>
-
 ## About Me
 
 - 🔭 I'm actively contributing to **Kubeflow Pipelines** (4k+ stars)
