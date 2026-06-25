@@ -3,7 +3,6 @@
 - 🔭 I'm actively contributing to **Kubeflow Pipelines** (4k+ stars)
 - 🎯 Google Summer of Code 2025 Contributor (<8% acceptance rate)
 - 💡 Specializing in multi-DB backend systems, PostgreSQL/MySQL optimization, and CI/CD pipelines
-- 📫 How to reach me: **yunkai_li@berkeley.edu** | [LinkedIn](https://linkedin.com/in/liyunkai)
 
 ## Tech Stack
 
